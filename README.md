@@ -17,3 +17,4 @@ The starting locations have increased usage in the central parts of Manhattan ve
 ![top Ending Locations](Images/TopEndingLocations.png)
 The ending locations have a simalar layout to the starting locations in usage.
 ## Summary
+All of the visualizations point towards majority usage by the working class. The primary hour usages are during rush hours for people going to and from their place of work. The locations of high usages come from the downtown part of Manhattan where the majority of workplaces are. Two visualizations that I would add would be the start times for starting locations and end times for ending locations.
