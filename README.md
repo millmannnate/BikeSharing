@@ -2,5 +2,5 @@
 ## Overview of the statistical analysis
 
 ## Results
-![User Trips](../BikeSharing/CheckoutTimes.png)
+![User Trips](CheckoutTimes.png)
 ## Summary
