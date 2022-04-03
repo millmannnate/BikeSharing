@@ -2,5 +2,5 @@
 ## Overview of the statistical analysis
 
 ## Results
-![User Trips](CheckoutTimes.png)
+![User Trips](Images/CheckoutTimes.png)
 ## Summary
