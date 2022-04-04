@@ -1,4 +1,5 @@
 # BikeSharing
+[link to dashboard](https://public.tableau.com/app/profile/nate.millmann/viz/NYC_Citibike_16490234547270/Story1)
 ## Overview of the statistical analysis
 The purpose of these visualizations is to show bike trip analysis to convince investors that bike sharing is viable in the city of Des Moines.
 ## Results
